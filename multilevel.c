@@ -1,5 +1,5 @@
-// Multilevel Feedback Queue Scheduling by Iftikar Alam Shuhad
-// Reg-11802493
+// Multilevel Feedback Queue Scheduling by Aman Gupta
+// Reg-11810418
 #include<stdio.h>
 #include<stdlib.h>
 struct process //to hold the attributes liike Arrival Time ,Burst Time ,etc.
